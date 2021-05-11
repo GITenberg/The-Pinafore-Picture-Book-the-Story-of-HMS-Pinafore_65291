@@ -1,0 +1,24 @@
+_repo: The-Pinafore-Picture-Book-the-Story-of-HMS-Pinafore_65291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert, W. S. (William Schwenck)
+    alias: Gilbert, William Schwenck, Sir
+    birthdate: 1836
+    deathdate: 1911
+    gutenberg_agent_id: '395'
+    url: http://www.gutenberg.org/2009/agents/395
+    wikipedia: https://en.wikipedia.org/wiki/W._S._Gilbert
+description: ''
+gutenberg_issued: '2021-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Pinafore Picture Book: the Story of H.M.S. Pinafore'
+url: http://www.gutenberg.org/ebooks/65291
